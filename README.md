@@ -112,5 +112,3 @@ WordPress · PHP customization
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/yaman-mando/)
-- [Muktamel](https://www.muktamel.com/)
-- [Ekhtibarat](https://ekhtibarat.com/)
